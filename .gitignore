@@ -45,3 +45,8 @@ next-env.d.ts
 
 # langgraph
 .langgraph_api
+
+# IDE and editor files
+.cursorindexingignore
+.history/
+.specstory/
